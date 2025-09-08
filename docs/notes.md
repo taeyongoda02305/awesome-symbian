@@ -25,3 +25,4 @@ Notes and usage details for awesome-symbian.
 - add a note about the defaults
 - add a note about the defaults
 - clarify the setup steps
+- fix a small wording issue
